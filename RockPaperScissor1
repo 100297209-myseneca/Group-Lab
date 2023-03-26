@@ -2,18 +2,13 @@
 #Coursework: OPS445NBB Group Project
 #Game: Rock Paper Scissors - Test 1
 
- 
 
 import random #Importing random module
-
- 
 
 #Asking for user input and creating a list of options that computer can randomly choose from
 uInput = input("Enter a choice (rock, paper, scissors): ") 
 options = ["rock", "paper", "scissors"]
 cInput = random.choice(options)
-
- 
 
 #if both play the same input, it will be a tie
 if uInput == cInput:
