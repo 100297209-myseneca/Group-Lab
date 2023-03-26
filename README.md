@@ -1,11 +1,9 @@
-# Group 9 Members 
-Members: Shreshta Chowdhury, Renata Dos Santos, Md Saiful Islam, Md Younus Islam
+# OPS445NBB Group Project : Group 9  
 
-_Project Managers_ : Shreshta Chowdhury and Md Younus Islam
-
-_Developer_ : Renata Dos Santos
-
-_QA tester_ : Md Saiful Islam
+### Members: Shreshta Chowdhury, Renata Dos Santos, Md Saiful Islam, Md Younus Islam
+### _Project Managers_ : Shreshta Chowdhury and Md Younus Islam
+### _Developer_ : Renata Dos Santos
+### _QA tester_ : Md Saiful Islam
 
 Shreshta Chowdhury and Md Younus Islam will be creating the plan and design for this project, Renata Dos Santos working on Development and Testing. Finally, Md Saiful Islam will be working on Deployment and Maintenance. 
 
